@@ -33,9 +33,4 @@ Mantenho um **homelab próprio** rodando ambiente de staging com Ubuntu Server, 
 
 <br />
 
-## Contato
-
-<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-07081F?style=flat-square&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:jov8mk@gmail.com"><img src="https://img.shields.io/badge/Email-07081F?style=flat-square&logo=gmail&logoColor=A78BFA" /></a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:A78BFA,30:5B21B6,70:1B1464,100:07081F&animation=twinkling" />
