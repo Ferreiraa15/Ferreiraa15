@@ -32,5 +32,4 @@ Mantenho um **homelab próprio** rodando ambiente de staging com Ubuntu Server, 
 ![Python](https://img.shields.io/badge/Python-07081F?style=flat-square&logo=python&logoColor=A78BFA)
 
 <br />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:A78BFA,30:5B21B6,70:1B1464,100:07081F&animation=twinkling" />
