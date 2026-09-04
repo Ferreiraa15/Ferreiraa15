@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedor;Linux+%7C+Docker+%7C+Self-hosted;Sempre+aprendendo+algo+novo" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Infraestrutura+%26+DevOps;Cloud+%7C+Linux+%7C+Docker;Troubleshooting+e+hardware" alt="" />
 
 <a href="https://github.com/Ferreiraa15?tab=followers"><img src="https://img.shields.io/github/followers/Ferreiraa15?style=flat-square&label=seguidores&labelColor=07081F&color=7C3AED" /></a>
-<a href="https://github.com/Ferreiraa15?tab=repositories"><img src="https://img.shields.io/badge/repos-6-7C3AED?style=flat-square&labelColor=07081F" /></a>
 <img src="https://komarev.com/ghpvc/?username=Ferreiraa15&style=flat-square&color=7C3AED&label=visitas" />
 
 </div>
@@ -14,15 +13,9 @@
 
 ## Sobre
 
-```yaml
-nome:       Nicolas Ferreira
-local:      Brasil
-foco:       # preencher
-estudando:  # preencher
-setup:      homelab próprio — Ubuntu Server, Docker, Cloudflare Tunnel
-```
+Trabalho mais perto da infraestrutura do que da interface. O que me interessa é entender **por que as coisas quebram** — e deixar elas de pé de novo. Infra, cloud, DevOps e troubleshooting são meu terreno, e mexer com hardware foi o que me trouxe pra cá.
 
-<!-- TODO: escrever a bio aqui -->
+Mantenho um **homelab próprio** rodando ambiente de staging com Ubuntu Server, Docker e Cloudflare Tunnel. É onde eu testo, quebro e conserto as coisas antes que elas quebrem em algum lugar que importa.
 
 <br />
 
@@ -35,36 +28,8 @@ setup:      homelab próprio — Ubuntu Server, Docker, Cloudflare Tunnel
 ![Nginx](https://img.shields.io/badge/Nginx-07081F?style=flat-square&logo=nginx&logoColor=A78BFA)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-07081F?style=flat-square&logo=cloudflare&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-07081F?style=flat-square&logo=git&logoColor=A78BFA)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-07081F?style=flat-square&logo=javascript&logoColor=A78BFA)
-![TypeScript](https://img.shields.io/badge/TypeScript-07081F?style=flat-square&logo=typescript&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-07081F?style=flat-square&logo=nodedotjs&logoColor=A78BFA)
-![React](https://img.shields.io/badge/React-07081F?style=flat-square&logo=react&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-07081F?style=flat-square&logo=githubactions&logoColor=A78BFA)
 ![Python](https://img.shields.io/badge/Python-07081F?style=flat-square&logo=python&logoColor=A78BFA)
-![HTML5](https://img.shields.io/badge/HTML5-07081F?style=flat-square&logo=html5&logoColor=A78BFA)
-![CSS3](https://img.shields.io/badge/CSS3-07081F?style=flat-square&logo=css3&logoColor=A78BFA)
-
-<br />
-
-## Atividade
-
-<div align="center">
-
-<img width="98%" src="https://ghchart.rshah.org/7C3AED/Ferreiraa15" alt="contribuições" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=Ferreiraa15&hide_border=true&background=07081F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=1B1464" alt="" />
-
-</div>
-
-<br />
-
-## Projetos
-
-| | |
-|---|---|
-| **[homelab](https://github.com/Ferreiraa15/homelab)** | Servidor caseiro rodando ambiente de staging — Ubuntu Server, Docker, Cloudflare Tunnel e tela de monitoramento. |
 
 <br />
 
